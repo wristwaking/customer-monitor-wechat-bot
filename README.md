@@ -34,3 +34,33 @@ node tool.js
 【雨落晴天】【1 messages】
 ```
 
+wechaty WechatifiedContactImpl
+
+```
+WechatifiedContactImpl {
+  _events: [Object: null prototype
+  ] {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  id: '@5f2864c3550d21e1057f83a1cadd2e300d4410ad1c0bd24b65157309fa31c0ef',
+  payload: {
+    address: undefined,
+    alias: '',
+    avatar: '/cgi-bin/mmwebwx-bin/webwxgeticon?seq=755506774&username=@5f2864c3550d21e1057f83a1cadd2e300d4410ad1c0bd24b65157309fa31c0ef&skey=',
+    city: '南通',
+    friend: true,
+    gender: 1,
+    id: '@5f2864c3550d21e1057f83a1cadd2e300d4410ad1c0bd24b65157309fa31c0ef',
+    name: '雨落晴天',
+    phone: [],
+    province: '江苏',
+    signature: undefined,
+    star: false,
+    weixin: undefined,
+    type: 1
+  },
+  [Symbol(kCapture)
+  ]: false
+}
+```
+
