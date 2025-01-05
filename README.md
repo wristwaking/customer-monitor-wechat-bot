@@ -34,7 +34,7 @@ node tool.js
 【雨落晴天】【1 messages】
 ```
 
-wechaty WechatifiedContactImpl
+# 附加：wechaty WechatifiedContactImpl
 
 ```
 WechatifiedContactImpl {
