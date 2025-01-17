@@ -1,6 +1,8 @@
 # wechat-customer-monitor 微信客服数据监控插件程序
 wechat-customer-monitor
 
+这是一款基于wechaty微信协议框架搭建微信客服数据监控插件程序。项目通过记录微信群客服会话数据，支持脚本快速指定日期统计导出数据，通过electron-ui面板即可方便操作。
+
 # 启动程序扫码登录微信
 ```bash
 node bot.js
