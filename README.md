@@ -1,5 +1,6 @@
-# wechat-customer-monitor 微信客服数据监控插件程序
-wechat-customer-monitor
+# customer-monitor-wechat-bot 微信客服数据监控机器人搭建
+
+**customer-monitor-wechat-bot 客户信息：Iproremovol-Alex**
 
 这是一款基于wechaty微信协议框架搭建微信客服数据监控插件程序。项目通过记录微信群客服会话数据，支持脚本快速指定日期统计导出数据，通过electron-ui面板即可方便操作。
 
